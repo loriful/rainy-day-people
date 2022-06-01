@@ -8,13 +8,14 @@
 
 
 ## **Description**
-Weather dashboard using Open Weather One Call API.
+Weather dashboard using Open Weather One Call API.  Takes a user provided zip code and returns the weather for that city.  Stores the most recent cities in local storage and uses them as a starter for the next launch.
 
 Practice: 
   - HTML
   - CSS
   - JavaScript
   - Third Party APIs
+  - localStorage
   - Complete Challenge 06
 
   
